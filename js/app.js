@@ -98,7 +98,7 @@ const startSlideshow = function () {
     pauseOnHover: true,
     fade: true,
     cssEase: 'linear',
-    dots: true,
+    dots: false,
   });
 };
 
