@@ -1,6 +1,8 @@
-# v1
-[Link to v1](https://dist-yksvnmkidp.now.sh/)
+[Click Here](https://parkercouch.github.io/fetch-reddit-slideshow/) to check it out
 
+
+
+# Assignment Below:
 
 # Reddit photo slideshow
 
